@@ -13,7 +13,7 @@ namespace Laba_3_Task_2
         public Form1()
         {
             InitializeComponent();
-            this.BackColor = Color.BlueViolet;
+            this.BackColor = Color.DarkGreen;
 
             // Налаштування кольорів для елементів форми
             Color buttonBackground = Color.MediumSlateBlue;
